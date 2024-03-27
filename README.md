@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm SAMARTH KUMAR SAMAL</h1>
 <h3 align="center">A passionate data science aspirant with profound knowledge of Python and Statistics from India</h3>
 
-- 🌱 I’m currently learning **Data Science and Artificial Intelligence Certification Course**
+- 🌱 I’m currently **Data Analyst at Kranion Technologies**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Samarth-Kumar-Samal](https://github.com/Samarth-Kumar-Samal)
+- 👨‍💻 All of my projects are available at [https://github.com/Sam-Samal](https://github.com/Sam-Samal)
 
 - 📫 How to reach me **samsamal1606@outlook.com**
 
